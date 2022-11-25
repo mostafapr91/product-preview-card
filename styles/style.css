@@ -5,6 +5,22 @@
   font-family: "Montserrat", sans-serif;
 }
 
+header {
+  width: 100%;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(158, 36%, 37%);
+}
+
+header h1 {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+  font-size: 32px;
+}
+
 main {
   background-color: hsl(30, 38%, 92%);
   width: 100%;
